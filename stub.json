@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I need to create a Web interface similar to ChatGPT that includes a feedback option. This feedback option should allow users to submit their feedback to the OpenAI API.","md5":"226b96df5b6ef6f970f4581f8a554549"}]}
